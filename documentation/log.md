@@ -1,5 +1,18 @@
 # OKF Changelog
 
+## 2026-09-20 — OKF Maintenance Run
+
+| Metric | Value |
+|---|---|
+| Files converted | 0 |
+| Indexes updated | 1 |
+| Stale docs detected | 0 |
+| Cross-link files fixed | 0 |
+| Cross-link total fixes | 0 |
+| Errors | 0 |
+
+
+
 
 ## 2026-09-14 — OKF Maintenance Run
 
