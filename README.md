@@ -1,4 +1,4 @@
-# Enabling the Disabled
+# Enable the Disabled
 
 Business documentation for a personal training + gym delivery fitness business serving disabled and handicapped clients in Ottawa, Ontario.
 
@@ -39,7 +39,7 @@ Business documentation for a personal training + gym delivery fitness business s
 
 ## Working with Us
 
-This repo is authored by the `fitness-strategist` Hermes profile. Google Drive admin folder (`Enabling the Disabled - Admin`) mirrors the journal and effort log. The shared folder (`Enable the Disabled - Shaun Kehoe`) is read-only external output.
+This repo is authored by the `fitness-strategist` Hermes profile. Google Drive admin folder (`Enable the Disabled - Admin`) mirrors the journal and effort log. The shared folder (`Enable the Disabled - Shaun Kehoe`) is read-only external output.
 
 ---
 
