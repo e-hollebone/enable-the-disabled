@@ -57,7 +57,7 @@ from pathlib import Path
 import requests
 
 # --- Metrics emission (homelab-metrics) ---
-_METRICS_DB = os.environ.get("OKF_METRICS_DB", "/home/hermes/homelab/metrics/metrics.db")
+_METRICS_DB = os.environ.get("OKF_METRICS_DB", "/opt/git/homelab/metrics/metrics.db")
 
 
 def _emit_metric(event_type: str, metadata: dict | None = None):
@@ -111,7 +111,7 @@ def _emit_metric(event_type: str, metadata: dict | None = None):
 
 # --- Configuration ---
 
-REPO_ROOT = Path(__file__).resolve().parent.parent.parent  # repo root (e.g. /home/hermes/homelab)
+REPO_ROOT = Path(__file__).resolve().parent.parent.parent  # repo root (e.g. /opt/git/homelab)
 
 def _get_llama_url() -> str:
     return os.environ.get(
